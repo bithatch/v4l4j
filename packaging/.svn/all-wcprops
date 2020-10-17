@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/500/v4l4j/packaging
+END
+debian_packaging
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/411/v4l4j/packaging/debian_packaging
+END
+update_downloads_page
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/312/v4l4j/packaging/update_downloads_page
+END
+libv4lconvert_update
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/367/v4l4j/packaging/libv4lconvert_update
+END
+googlecode-upload.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/255/v4l4j/packaging/googlecode-upload.py
+END
+new_src_archive_release
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/312/v4l4j/packaging/new_src_archive_release
+END

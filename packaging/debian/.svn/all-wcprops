@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/500/v4l4j/packaging/debian
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/413/v4l4j/packaging/debian/changelog
+END
+libv4l4j-java-doc.doc-base
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/187/v4l4j/packaging/debian/libv4l4j-java-doc.doc-base
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/500/v4l4j/packaging/debian/rules
+END
+libvideo-dev.docs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/187/v4l4j/packaging/debian/libvideo-dev.docs
+END
+libv4l4j-java.docs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/187/v4l4j/packaging/debian/libv4l4j-java.docs
+END
+libv4l4j.desktop
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/187/v4l4j/packaging/debian/libv4l4j.desktop
+END
+libvideo0.docs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/187/v4l4j/packaging/debian/libvideo0.docs
+END
+libv4l4j-bin.install
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/187/v4l4j/packaging/debian/libv4l4j-bin.install
+END
+watch
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/187/v4l4j/packaging/debian/watch
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/187/v4l4j/packaging/debian/copyright
+END
+libvideo-dev.install
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/500/v4l4j/packaging/debian/libvideo-dev.install
+END
+libv4l4j-java.install
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/187/v4l4j/packaging/debian/libv4l4j-java.install
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/500/v4l4j/packaging/debian/control
+END
+libv4l4j-java-doc.install
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/187/v4l4j/packaging/debian/libv4l4j-java-doc.install
+END
+libvideo0.install
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/500/v4l4j/packaging/debian/libvideo0.install
+END
+postinst
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/187/v4l4j/packaging/debian/postinst
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/187/v4l4j/packaging/debian/compat
+END
+postrm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/187/v4l4j/packaging/debian/postrm
+END
