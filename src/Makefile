@@ -1,7 +1,7 @@
 # If the env variable JDK_HOME is not defined,
 # use the following one (works on Ubuntu with OpenJDK).
 ifndef JDK_HOME
-JDK_HOME := /usr/lib/jvm/java-6-openjdk
+JDK_HOME := /usr/lib/jvm/java-1.8.0-openjdk-amd64
 endif
 
 

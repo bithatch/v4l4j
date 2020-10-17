@@ -94,7 +94,7 @@ test: $(LIB).$(LIB_RELEASE) $(TESTOBJ)
 	$(CC) dump-capture.o -lm -lrt -L. -l$(LIB_NAME) -o dump-capture
 
 version.h:
-	@sh svn-version.sh
+	@sh git-version.sh
 
 clean:
 	rm -f $(OBJ) $(BIN) $(LIB) $(LIB).$(LIB_RELEASE) $(TESTOBJ) \

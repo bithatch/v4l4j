@@ -1,0 +1,5 @@
+classes/
+**/*.o
+**/*.so*
+*.jar
+libvideo/version.h
