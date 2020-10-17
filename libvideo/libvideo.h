@@ -141,6 +141,7 @@ enum {
 	JPEG,
 	DV,
 	MPEG,
+	H264,
 
 	// Vendor-specific formats
 	CPIA1,

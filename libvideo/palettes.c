@@ -404,6 +404,20 @@ const struct libvideo_palette libvideo_palettes[] = {
 		COMPRESSED_FORMAT_DEPTH,
 		"MPEG 1/2/4"
 	},
+	{
+		H264,
+		VIDEO_PALETTE_UNDEFINED_V4L1,
+		V4L2_PIX_FMT_H264,
+		COMPRESSED_FORMAT_DEPTH,
+		"H264"
+	},
+	{
+		H264,
+		VIDEO_PALETTE_UNDEFINED_V4L1,
+		V4L2_PIX_FMT_H264_NO_SC,
+		COMPRESSED_FORMAT_DEPTH,
+		"H264 AVC1"
+	},
 
 	// vendor-specific
 	{
